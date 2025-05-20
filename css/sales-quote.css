@@ -14,3 +14,8 @@ main {
 .group-b {
   margin-bottom: 32px;
 }
+
+.group-b > p {
+  font-size: 20px;
+  color: #edbb99;
+}
