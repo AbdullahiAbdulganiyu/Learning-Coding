@@ -32,6 +32,12 @@ main {
   margin-bottom: 8px;
 }
 
+.group-c2 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
 .group-c2 span {
   display: block;
 }
