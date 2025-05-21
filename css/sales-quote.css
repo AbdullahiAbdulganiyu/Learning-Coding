@@ -51,3 +51,7 @@ main {
 thead {
   background-color: #edbb99;
 }
+
+td {
+  padding: 12px 4px;
+}
