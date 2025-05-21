@@ -31,3 +31,7 @@ main {
   font-weight: bold;
   margin-bottom: 8px;
 }
+
+.group-c2 span {
+  display: block;
+}
