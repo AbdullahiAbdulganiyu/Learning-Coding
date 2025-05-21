@@ -47,3 +47,7 @@ main {
 .title {
   font-weight: bold;
 }
+
+thead {
+  background-color: #edbb99;
+}
