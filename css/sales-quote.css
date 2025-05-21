@@ -61,3 +61,7 @@ td {
   padding: 12px 4px;
   border: 1px solid #eaeded;
 }
+
+#overall-total {
+  background-color: #eaeded;
+}
