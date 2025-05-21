@@ -65,3 +65,7 @@ td {
 #overall-total {
   background-color: #eaeded;
 }
+
+.data {
+  text-align: right;
+}
