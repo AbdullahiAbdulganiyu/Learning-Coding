@@ -1,6 +1,6 @@
 .login-container {
   border-radius: 10px;
   max-width: 300px;
-  padding-bottom: 20px;
+  padding: 20px;
   background-color: gainsboro;
 }
