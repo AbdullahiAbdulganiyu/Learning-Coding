@@ -48,6 +48,9 @@ main {
   font-weight: bold;
 }
 
+table {
+  width: 100%;
+}
 thead {
   background-color: #edbb99;
 }
