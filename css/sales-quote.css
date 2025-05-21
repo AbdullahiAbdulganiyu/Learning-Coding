@@ -25,3 +25,8 @@ main {
   justify-content: space-between;
   margin-bottom: 32px;
 }
+
+.group-c1 p {
+  font-size: 12px;
+  font-weight: bold;
+}
