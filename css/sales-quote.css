@@ -19,3 +19,9 @@ main {
   font-size: 20px;
   color: #edbb99;
 }
+
+.group-c {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 32px;
+}
